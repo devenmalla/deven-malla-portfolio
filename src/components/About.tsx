@@ -18,8 +18,8 @@ const About = () => {
               <p className="text-gray-600 leading-relaxed">
                 As a dedicated B.Tech student specializing in Information Technology, 
                 I am deeply passionate about developing innovative solutions within the tech industry. 
-                My skill set encompasses web development using React, Node, HTML, JavaScript and Python, 
-                coupled with a growing interest in machine learning technologies.
+                My skill set encompasses web development and mobile application development using React Native, 
+                coupled with a growing interest in machine learning technologies. 
               </p>
               
               <p className="text-gray-600 leading-relaxed">
@@ -66,7 +66,7 @@ const About = () => {
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-emerald-600 rounded-full mr-3"></div>
-                  <span className="text-gray-700">Machine Learning Explorer</span>
+                  <span className="text-gray-700">Machine Learning</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-emerald-600 rounded-full mr-3"></div>

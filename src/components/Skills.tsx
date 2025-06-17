@@ -5,18 +5,19 @@ const Skills = () => {
     { name: 'HTML/CSS', level: 95 },
     { name: 'JavaScript', level: 85 },
     { name: 'React', level: 80 },
-    { name: 'Python', level: 90 },
     { name: 'PHP', level: 75 },
     { name: 'MySQL', level: 70 },
-    { name: 'C/C++', level: 75 }
+    { name: 'C/C++', level: 75 },
+    { name: 'Python', level: 90 }
   ];
 
   const certifications = [
     'Introduction to Machine Learning',
     'Digital Marketing Fundamentals',
-    'AI for Dev 2.0',
+    'AI For India 2.0',
     'C++ Programming',
-    'The Complete Work Record Event'
+    'The Guinness World Record Event',
+    'Cyber Security Essentials Bootcamp'
   ];
 
   return (
@@ -71,7 +72,7 @@ const Skills = () => {
             <div className="mt-8 p-6 bg-gradient-to-r from-emerald-500 to-teal-600 rounded-lg text-white">
               <h4 className="font-semibold mb-2">Achievement Highlight</h4>
               <p className="text-sm opacity-90">
-                Most users are able to take at online computer programming lesson in 24 hours or less
+                Most users to take an online computer programming lesson in 24 hours
               </p>
             </div>
           </div>
