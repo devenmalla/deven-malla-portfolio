@@ -1,4 +1,4 @@
-# 🌐 Deven Malla – Developer Portfolio
+# 🌐 Deven Malla Portfolio Website
 
 A modern and responsive developer portfolio built with Vite, React, TypeScript, Tailwind CSS, and shadcn/ui. This portfolio showcases my skills, projects, and personal journey in a clean and minimal interface.
 
