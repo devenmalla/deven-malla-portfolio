@@ -6,21 +6,21 @@
 
 The **Deven Malla Portfolio Website** is a personal digital space to showcase my journey, skills, projects, and professional experiences. Built with clarity, speed, and simplicity in mind, this portfolio reflects my mission of:
 
-✅ Building solutions for a simpler, smarter tomorrow  
-✅ Developing impactful digital products  
-✅ Documenting my professional journey transparently
+* Building solutions for a simpler, smarter tomorrow  
+* Developing impactful digital products  
+* Documenting my professional journey transparently
 
 ---
 
 ## 🚀 Features
 
-✅ Responsive, clean, and elegant UI  
-✅ About Me, Education, and Certifications  
-✅ Skills & Core Proficiencies with progress indicators  
-✅ Featured Projects with live status  
-✅ Experience & Leadership highlights  
-✅ Contact section with direct links  
-✅ Current Focus for active learning and building
+* Responsive, clean, and elegant UI  
+* About Me, Education, and Certifications  
+* Skills & Core Proficiencies with progress indicators  
+* Featured Projects with live status  
+* Experience & Leadership highlights  
+* Contact section with direct links  
+* Current Focus for active learning and building
 
 ---
 
