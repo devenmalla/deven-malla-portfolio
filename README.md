@@ -38,7 +38,7 @@ This project is built with:
 
 ## 🔗 Live Demo
 
-[View Portfolio Website Live](https://your-deployment-link.com)
+[View Portfolio Website Live](https://deven-malla-portfolio.netlify.app/)
 
 > See the portfolio in action – because reading about it isn’t half as fun as experiencing it.
 
